@@ -1,0 +1,6 @@
+# shpark 091229 add
+# -----------------
+
+config TSPDRV
+	tristate "IMMERSION TouchSense Player driver"
+
